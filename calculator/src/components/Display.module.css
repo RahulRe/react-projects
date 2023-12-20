@@ -1,0 +1,7 @@
+.display{
+    margin: 10px;
+    width: calc(100% - 40px); /* Set width to 100% minus twice the desired margin (20px in this example) */
+    padding: 10px;
+    font-size: 25px;
+
+}
