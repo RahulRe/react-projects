@@ -1,0 +1,13 @@
+.right-float{
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.form-container{
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
